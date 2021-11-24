@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.exe
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.deps.json
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.runtimeconfig.json
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.dll
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\bin\Debug\netcoreapp3.1\OOPCat.pdb
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.dll
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.pdb
+C:\Users\opilane\source\repos\OOP-Part1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.genruntimeconfig.cache
